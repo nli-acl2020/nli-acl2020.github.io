@@ -5,8 +5,8 @@ nav: true
 ---
 
 # Invited Speakers
-+ [Joyce Chai](http://www.cse.msu.edu/~jchai/) (University of Michigan)
-+ [Monica Lam](https://suif.stanford.edu/~lam/) (Stanford University)
++ [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/) (University of Michigan)
++ [Monica S. Lam](https://suif.stanford.edu/~lam/) (Stanford University)
 + [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
 + [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) (University of Washington & FAIR)
 + [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/) (Google)
