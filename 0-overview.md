@@ -24,7 +24,6 @@ Many research communities have been advancing NLI technologies in recent years: 
 # Invited Speakers
 {% include figure.html file="speakers.png" alt="invited speakers" width="110%" %}
 
-
 Details about the speakers and talks can be found [here](http://nli-acl2020.github.io/3-speaker.html).
 
 <br>
@@ -32,9 +31,6 @@ Details about the speakers and talks can be found [here](http://nli-acl2020.gith
 # Topics
 This workshop aims to bring together researchers and practitioners from different communities related to NLIs. As such, the workshop welcomes and covers a wide range of topics around NLIs, including (non-exclusively):
 
-<!-- + **Knowledge Base Construction**: 
-+ **Mining and Reasoning over Knowledge Bases**: 
-+ **Knowledge Base-related Applications**:  -->
 
 <ul style="text-align: justify;">
 <li>  
