@@ -6,10 +6,10 @@ nav: true
 
 # [NLI 2020](http://nli-acl2020.github.io): First Workshop on Natural Language Interfaces
 ## at [ACL 2020](https://acl2020.org/) in Seattle, Washington, July 10, 2020.  
-<div class="fb-share-button" data-href="http://nli-acl2020.github.io" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkbcom.org%2F&amp;src=sdkpreparse">Share</a></div>
-<a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <div class="fb-share-button" data-href="http://nli-acl2020.github.io" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkbcom.org%2F&amp;src=sdkpreparse">Share</a></div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-{% include figure.html file="seattle.jpg" alt="intro image here" width="85%" %}
+{% include figure.html file="seattle.pdf" alt="intro image here" width="85%" %}
 
 <br>
 
@@ -62,12 +62,14 @@ This workshop aims to bring together researchers and practitioners from differen
 </li>
 
 <li>
-<b>Evaluation and user study.</b> How to systematically evaluate different usability aspects of an NLI as perceived by users? What are the protocols for conducting a reproducible user study? Whether there is significant gap between in vitro and in vivo evaluation and how to bridge that?</li></ul></p>
+<b>Evaluation and user study.</b> How to systematically evaluate different usability aspects of an NLI as perceived by users? What are the protocols for conducting a reproducible user study? Whether there is significant gap between in vitro and in vivo evaluation and how to bridge that?
+</li>
+</ul>
 
 <br>
 
 # Organizers
-{% include figure.html file="org.jpg" alt="organizers" width="90%" %}
+{% include figure.html file="organizers.pdf" alt="organizers" width="90%" %}
 
 The workshop is organized by [Ahmed Hassan Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/) (Microsoft Research), [Yu Su](http://ysu1989.github.io/) (OSU)，[Huan Sun](http://web.cse.ohio-state.edu/~sun.397/) (OSU), and [Scott Wen-tau Yih](http://scottyih.org/) (FAIR).
 
