@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Overview
-nav: false
+title: NLI 2020
 ---
 
 <!-- # [NLI 2020](http://nli-acl2020.github.io): First Workshop on Natural Language Interfaces
