@@ -66,6 +66,13 @@ $on-laptop:        800px !default;
   left: 16px;
 }
 
+/* Top left text */
+.top {
+  position: absolute;
+  top: 8px;
+  text-align: center;
+}
+
 /* Top right text */
 .top-right {
   position: absolute;
