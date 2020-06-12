@@ -4,82 +4,78 @@ title: Overview
 nav: true
 ---
 
-# [KBCOM 2018](http://kbcom.org): First Workshop on Knowledge Base Construction, Reasoning and Mining
-## at [WSDM 2018](http://www.wsdm-conference.org/2018/) in Los Angeles, California, Feb 9, 2018.  
-<div class="fb-share-button" data-href="http://kbcom.org/" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkbcom.org%2F&amp;src=sdkpreparse">Share</a></div>
+# [NLI 2020](http://nli-acl2020.github.io): First Workshop on Natural Language Interfaces
+## at [ACL 2020](https://acl2020.org/) in Seattle, Washington, July 10, 2020.  
+<div class="fb-share-button" data-href="http://nli-acl2020.github.io" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkbcom.org%2F&amp;src=sdkpreparse">Share</a></div>
 <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{% include figure.html file="la.png" alt="intro image here" width="85%" %}
+{% include figure.html file="seattle.jpg" alt="intro image here" width="85%" %}
 
 <br>
 
 # Overview
-The *1st Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM)* is a new workshop that will be co-located with [WSDM 2018](http://www.wsdm-conference.org/2018/). The success of data mining and search technologies is largely attributed to the efficient and effective analysis of structured data. Automated construction, mining and reasoning of [knowledge bases and graphs](https://en.wikipedia.org/wiki/Knowledge_base) have become possible as research advances in many related areas such as *information extraction*, *natural language processing*, *machine learning* and *databases*. KBCOM aims to gather together leading experts from industry and academia to share their visions about the field, discuss latest research results, and exchange exciting ideas. 
+Natural language interfaces (NLIs) have been the "holy grail" of human-computer interaction and information search for decades. However, early attempts in building NLIs to databases did not achieve the expected success due to limitations in language understanding capability, extensibility and explainability, among others. The last 5 years have seen a major resurgence of NLIs in the form of virtual assistants, dialogue systems, and semantic parsing and question answering systems. The horizon of NLIs has also been significantly expanding beyond databases to, e.g., knowledge bases, robots, Internet of Things, Web service APIs, and more.
 
-We aim to complement the main conference by trying to achieve the following goals:
+This has been driven by a number of profound revolutions: (1) In the big data era, and as digitalization continues to grow, there is a rapidly growing demand for interfaces that connect users to the ever-expanding data sources, services and devices in the computing world. NLIs represent a very promising technology to accomplish that as they provide users with a unified way to interact with the entire computing world using language, their natural way of communication, and (2) the renaissance and development of deep learning have brought us from rule and feature engineering to a world of neural architecture and data engineering, promising better language understanding, adaptability and scalability. As a result, many commercial systems like Amazon Alexa, Apple Siri, and Microsoft Cortana, as well as academic studies on NLIs to a wide range of backends have emerged in recent years.
 
-+ *Research horizons in KBCOM*: The workshop focuses on **invited talks** from leading experts and **position papers**  discussing forward-looking work. Its program comprises a good number of [keynote speakers](http://kbcom.org/3-speaker.html) from both leading universities (Stanford, University of Washington and more) and industrial organizations like Amazon and Recruit Institute of Technology.
+Many research communities have been advancing NLI technologies in recent years: NLP and machine learning, data management and databases, programming language, human-machine interaction, among others. This workshop aims to bring together researchers and practitioners from related communities to review the recent advances and revisit the challenges that led to the failure of earlier NLI systems, and discuss what the remaining challenges are and what to expect in the short- and long-term future
 
-+ *Idea exchange in KBCOM*: We will organize a **poster session** for researchers to share ideas, collect feedback and form collaborations. We particularly encourage participants to publish **new software and datasets** on related topics, and will hold novel **shared tasks** to help develop a better community.
-
-We expect the highlight of the workshop to be the discussions and brainstorming during invited talks and poster session. The workshop will also accept **regular submissions** of original research or position/visionary papers which will be presented either as *highlight talks* or during the poster session. With such focuses, KBCOM aims to provide a vivid forum of discussion about knowledge base-related research.
-
-<br>
 
 # Invited Speakers
-{% include figure.html file="speaker.jpg" alt="intro image here" width="110%" %}
+{% include figure.html file="speakers.pdf" alt="invited speakers" width="110%" %}
 
 
-Details about the speakers and talks can be found [here](http://kbcom.org/3-speaker.html).
+Details about the speakers and talks can be found [here](http://nli-acl2020.github.io/3-speaker.html).
 
 <br>
 
 # Topics
-+ **Knowledge Base Construction**: 
-  - information extraction: named entity recognition, relation extraction, entity resolution, synonym mining; 
-  - ontology construction; information integration; schema alignment, ontology alignment; 
-  - tools and systems for automated knowledge base construction; 
-  - structured prediction methods on text, sequence labeling methods on text; 
-  - distant supervision, weak supervision techniques for text; 
-  - Human-in-the-loop techniques for KB construction.
+This workshop aims to bring together researchers and practitioners from different communities related to NLIs. As such, the workshop welcomes and covers a wide range of topics around NLIs, including (non-exclusively):
 
-
+<!-- + **Knowledge Base Construction**: 
 + **Mining and Reasoning over Knowledge Bases**: 
-  - structured search, KB querying, semantic search; 
-  - representation learning on network/graph, knowledge graph embedding, knowledge base completion/population, link prediction; 
-  - knowledge-based systems, probabilistic knowledge bases, graph databases.
++ **Knowledge Base-related Applications**:  -->
 
+<ul style="text-align: justify;">
+<li>  
+<b>Linguistic analysis and modeling.</b> What are the linguistic characteristics of human-machine interaction via NLIs? How to develop better models to accommodate and leverage such characteristics?
+</li>
 
-+ **Knowledge Base-related Applications**: 
-  - KB-based QA, hybrid QA, QA with open-domain facts; 
-  - Injecting rule/logic into recommendation systems, recommendation with knowledge bases; 
-  - web search using knowledge bases, search by example; User study in KB-related applications, user interface, best practices.
+<li>
+<b>Interactivity, continuous learning, and personalization.</b> How to enable NLIs to interact with users to resolve the knowledge gaps between them for better accuracy and transparency? Can NLIs learn from interactions to reduce human intervention over time?  How can NLIs (learn to) be customized and adapt to user preferences? Interaction design, faithful generation, learning from user feedback, online learning.
+</li>
 
-<br>
+<li>
+<b>Data collection and crowdsourcing.</b> Modern machine learning models are data-hungry while data collection for NLIs are particularly expensive because of the domain expertise needed for formal meaning representation and grounding. How to collect data for NLIs at scale with low cost?
+</li>
 
-# Steering Committee
+<li>
+<b>Scalability, adaptability, and portability.</b> How to construct NLIs that can reliably and efficiently operate at a large scale (e.g., on billion-scale knowledge graphs)? How to construct NLIs that can simultaneously support multiple inter-connected domains of possibly different nature? How to transfer knowledge learned from existing domains to help learning in new domains?
+</li>
 
-+ [William Cohen](http://www.cs.cmu.edu/~wcohen/)
-+ [Alon Halevy](https://homes.cs.washington.edu/~alon/)
-+ [Jiawei Han](http://hanj.cs.illinois.edu/)
-+ [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/)
-+ [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)
+<li>
+<b>Explainability and trustworthiness.</b> How to make the reasoning process and the results explainable and trustworthy to users? How to help users understand how an answer is obtained or a command is executed?
+</li> 
+
+<li>
+<b>Privacy.</b> How to ensure NLIs are compliant with privacy constraints? How to train, monitor, and debug NLIs within the compliance boundary?
+</li>
+
+<li>
+<b>Evaluation and user study.</b> How to systematically evaluate different usability aspects of an NLI as perceived by users? What are the protocols for conducting a reproducible user study? Whether there is significant gap between in vitro and in vivo evaluation and how to bridge that?</li></ul></p>
 
 <br>
 
 # Organizers
+{% include figure.html file="org.jpg" alt="organizers" width="90%" %}
 
-{% include figure.html file="org.jpg" alt="intro image here" width="90%" %}
+The workshop is organized by [Ahmed Hassan Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/) (Microsoft Research), [Yu Su](http://ysu1989.github.io/) (OSU)，[Huan Sun](http://web.cse.ohio-state.edu/~sun.397/) (OSU), and [Scott Wen-tau Yih](http://scottyih.org/) (FAIR).
 
-The workshop is organized by [Xiang Ren](http://xren7.web.engr.illinois.edu/) (USC)， [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/) (USC/ISI)， [William Wang](https://www.cs.ucsb.edu/~william/) (UCSB), and [Yu Su](http://cs.ucsb.edu/~ysu/) (UCSB).
-
-For any questions, please email [info@kbcom.org](mailto:info@kbcom.org)
+For any questions, please email [nliacl2020@gmail.com](mailto:nliacl2020@gmail.com )
 
 <br>
 
-# Sponsors
 
-We thank our sponsors for their generous support!
-{% include figure.html file="dr-logo.jpg" alt="" width="30%" %}
-{% include figure.html file="amazon_logo.jpg" alt="" width="30%" %} 
+# Location 
+NLI 2020 will be held at online, co-located with [ACL 2020](http://www.wsdm-conference.org/2018/index.html). More details are coming soon.
 
