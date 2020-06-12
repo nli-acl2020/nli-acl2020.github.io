@@ -18,6 +18,8 @@ This has been driven by a number of profound revolutions: (1) In the big data er
 
 Many research communities have been advancing NLI technologies in recent years: NLP and machine learning, data management and databases, programming language, human-machine interaction, among others. This workshop aims to bring together researchers and practitioners from related communities to review the recent advances and revisit the challenges that led to the failure of earlier NLI systems, and discuss what the remaining challenges are and what to expect in the short- and long-term future
 
+<br>
+
 # Dates
 
 All deadlines are 11:59 PM Pacific time.
@@ -27,12 +29,14 @@ All deadlines are 11:59 PM Pacific time.
 + Camera-ready papers due: <del>May 18, 2020</del> **May 22, 2020** 
 + Workshop date: **July 10, 2020**
 
+<br>
 
 # Invited Speakers
 {% include figure.html file="speakers.png" alt="invited speakers" width="110%" %}
 
 Details about the speakers and talks can be found [here](http://nli-acl2020.github.io/3-speaker.html).
 
+<br>
 
 # Topics
 This workshop aims to bring together researchers and practitioners from different communities related to NLIs. As such, the workshop welcomes and covers a wide range of topics around NLIs, including (non-exclusively):
@@ -45,12 +49,16 @@ This workshop aims to bring together researchers and practitioners from differen
 + **Privacy**. How to ensure NLIs are compliant with privacy constraints? How to train, monitor, and debug NLIs within the compliance boundary?
 + **Evaluation and user study**. How to systematically evaluate different usability aspects of an NLI as perceived by users? What are the protocols for conducting a reproducible user study? Whether there is significant gap between in vitro and in vivo evaluation and how to bridge that?
 
+<br>
+
 # Organizers
 {% include figure.html file="organizers.png" alt="organizers" width="100%" %}
 
 The workshop is organized by [Ahmed Hassan Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/) (Microsoft Research), [Yu Su](http://ysu1989.github.io/) (OSU)，[Huan Sun](http://web.cse.ohio-state.edu/~sun.397/) (OSU), and [Scott Wen-tau Yih](http://scottyih.org/) (FAIR).
 
 For any questions, please email [nliacl2020@gmail.com](mailto:nliacl2020@gmail.com )
+
+<br>
 
 # Location 
 NLI 2020 will be held at online, co-located with [ACL 2020](http://www.wsdm-conference.org/2018/index.html). More details are coming soon.

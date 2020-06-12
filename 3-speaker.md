@@ -5,20 +5,20 @@ nav: true
 ---
 
 # Invited Speakers
-+ [Xin Luna Dong](http://lunadong.com/)  (Amazon)
-+ [Oren Etzioni](http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
-+ [Tim Finin](https://www.csee.umbc.edu/~finin/) (University of Maryland, Baltimore County)
-+ [Alon Halevy](https://homes.cs.washington.edu/~alon/)  (Recruit Institute of Technology)
-+ [Monica Lam](https://suif.stanford.edu/~lam/)  (Stanford University)
-+ [Christopher Ré](https://cs.stanford.edu/people/chrismre/)  (Stanford University)
-+ [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)  (University of California at Santa Barbara)
-+ [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington & Allen Institute for Artificial Intelligence)
++ [Joyce Chai](http://www.cse.msu.edu/~jchai/) (University of Michigan)
++ [Monica Lam](https://suif.stanford.edu/~lam/) (Stanford University)
++ [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
++ [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) (University of Washington & FAIR)
++ [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/) (Google)
++ [H V Jagadish](https://web.eecs.umich.edu/~jag/) (University of Michigan)
 
 <br>
 
 # Speaker Details
 
-<img align="left" src="images/LunaDong.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Xin Luna Dong](http://lunadong.com/)  (Amazon)
+Coming soon!
+
+<!-- <img align="left" src="images/LunaDong.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Xin Luna Dong](http://lunadong.com/)  (Amazon)
 
 Talk: [Challenges and Innovations in Building a Product Knowledge Graph](./speaker_slides/ProductGraph_KBCOM.pdf)
 
@@ -86,4 +86,4 @@ Talk: [End-to-end Learning for Broad Coverage Semantics](./speaker_slides/Zettle
 
 Bio: Luke Zettlemoyer is an Associate Professor in the Allen School of Computer Science & Engineering at the University of Washington, and also leads the AllenNLP project at the Allen Institute for Artificial Intelligence. His research is in core semantics, where he works on data and algorithms for learning to recover and make use of representations of the meaning of natural language text. Honors include multiple best papers, a PECASE award, and being named an Allen Distinguished Investigator. Luke received his PhD from MIT and was a postdoctoral fellow at the University of Edinburgh.
 
-<br>
+<br> -->

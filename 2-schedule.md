@@ -4,16 +4,15 @@ title: Program
 nav: true
 ---
 
-# Workshop Schedule
+# Program
 
-**Location**: KBCOM 2018 will be held at [The Ritz-Carlton, Marina del Rey](http://www.ritzcarlton.com/en/hotels/california/marina-del-rey#Hotel) (Salon I), co-located with [WSDM 2018](http://www.wsdm-conference.org/2018/index.html).
-<br>
+Comming soon!
 
 <!--
 A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.
 -->
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             | Title             | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+<!-- | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             | Title             | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:-------------|:-----------------|:----------|
 | 09:00-09:10   | Opening Remarks   | KBCOM Organizers |
 |||
@@ -47,7 +46,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 |||
 | 17:00-17:30   | Panel Discussion | Invited Speakers |
 |||
-| 17:30-17:40   | Best paper Awards and Closing Remarks |KBCOM Organizers |
+| 17:30-17:40   | Best paper Awards and Closing Remarks |KBCOM Organizers | -->
 
 
 <!--
@@ -57,87 +56,37 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
     </embed>
 </object>
 -->
-<br />
-<br>
 
-# Awards
 
-## Best Paper
-
-* [Analysis of the Impact of Negative Sampling on Link Prediction in Knowledge Graphs](./papers/KBCOM_2018_paper_4.pdf)
-
-   Author(s): Bhushan Kotnis (University of Heidelberg); Vivi Nastase (University of Heidelberg)
-
-## Honorable Mentions
-
-* [Temporal Reasoning Over Event Knowledge Graphs](./papers/KBCOM_2018_paper_11.pdf)
-
-   Author(s): Ali Sadeghian (University of Florida); Miguel Rodriguez (University of Florida); Daisy Zhe Wang (University of Florida); Anthony Colas (University of Florida)
-
-* [Event Detection and Evolution Based on Knowledge Base](./papers/KBCOM_2018_paper_1.pdf)
-
-   Author(s): Yaopeng Liu (Beihang University); Hao Peng (Beihang University); Jie Guo (Beihang University); Tao He (Beihang University); Xiong Li (National Computer Network Emergency Response Technical Team/Coordination Center of China); Yangqiu Song (Hong Kong University of Science and
-Technology); Jianxin Li (Beihang University)
-
-<br>
 <br>
 
 # Accepted Papers
 (In random ordering)
 
-* [Mechanistic Hypothesis Generation in Molecular Biology: A Grand Challenge for Knowledge-based Reasoning](./papers/KBCOM_2018_paper_10.pdf)
+* Towards Reversal-Based Textual Data Augmentation for NLI Problems with Opposable Classes
 
-   Author(s): Lawrence Hunter (University of Colorado) 
+   Author(s): Alexey Tarasov (Informatica) 
 
-* [Analysis of the Impact of Negative Sampling on Link Prediction in Knowledge Graphs](./papers/KBCOM_2018_paper_4.pdf)
+* Neural Multi-task Text Normalization and Sanitization with Pointer-Generator
 
-   Author(s): Bhushan Kotnis (University of Heidelberg); Vivi Nastase (University of Heidelberg)
+   Author(s): Hoang Nguyen (National University of Singapore, Paypal) and Sandro Cavallari (NTU)
 
-* [One Sense Per Document: Improve Name Finding in the Wild with Document-wide Context](./papers/KBCOM_2018_paper_6.pdf)
+* Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases
 
-   Author(s): Bonan Min (Raytheon BBN Technologies); Marjorie Freedman (USC/Information Sciences Institute); Ryan Gabbard (USC/Information Sciences Institute)
+   Author(s): Nikita Bhutani (Megagon Labs), Xinyi Zheng (University of Michigan, Ann Arbor), Kun Qian (IBM Research - Almaden), Yunyao Li (University of Michigan, Ann Arbor) and H. Jagadish (University of Michigan, Ann Arbor)
 
-* [ReMine: Open Information Extraction with Global Information](./papers/KBCOM_2018_paper_20.pdf)
+* Efficient Deployment of Conversational Natural Language Interfaces over Databases
 
-   Author(s): Qi Zhu (UIUC); Xiang Ren (USC); Jingbo Shang (UIUC); Yu Zhang (UIUC); Frank F. Xu (Shanghai Jiao Tong University); Jiawei Han (UIUC)
+   Author(s): Anthony Colas (University of Florida), Trung Bui (Adobe Research), Franck Dernoncourt (Adobe Research), Moumita Sinha (Adobe Inc.) and Doo Soon Kim (Adobe Research)
 
-* [Temporal Reasoning Over Event Knowledge Graphs](./papers/KBCOM_2018_paper_11.pdf)
+* A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations (_Cross-submission_)
 
-   Author(s): Ali Sadeghian (University of Florida); Miguel Rodriguez (University of Florida); Daisy Zhe Wang (University of Florida); Anthony Colas (University of Florida)
+   Author(s): Toby Jia-Jun Li (Carnegie Mellon University), Marissa Radensky (Amherst College), Justin Jia (Carnegie Mellon University), Kirielle Singarajah (Carnegie Mellon University), Tom Mitchell (Carnegie Mellon University) and Brad Myers (Carnegie Mellon University)
 
-* [Extracting New Knowledge from Web Tables: Novelty or Confidence?](./papers/KBCOM_2018_paper_7.pdf)
+* Examination and Extension of Strategies for Improving Personalized Language Modeling via Interpolation
 
-   Author(s): Benno Kruit (Centrum Wiskunde & Informatica); Peter Boncz (Centrum Wiskunde & Informatica); Jacopo Urbani (Vrije Universiteit Amsterdam)
+   Author(s): Liqun Shao (Microsoft), Sahitya Mantravadi (Microsoft), Tom Manzini (Microsoft), Alejandro Buendia (Microsoft), Manon Knoertzer (Microsoft), Soundar Srinivasan (Microsoft) and Chris Quirk (Microsoft)
 
-* [Event Detection and Evolution Based on Knowledge Base](./papers/KBCOM_2018_paper_1.pdf)
+* Unnatural Language Processing: Bridging the Gap Between Synthetic and Natural Language Data
 
-   Author(s): Yaopeng Liu (Beihang University); Hao Peng (Beihang University); Jie Guo (Beihang University); Tao He (Beihang University); Xiong Li (National Computer Network Emergency Response Technical Team/Coordination Center of China); Yangqiu Song (Hong Kong University of Science and
-Technology); Jianxin Li (Beihang University)
-
-* [Mining Cross-Cultural Differences of Named Entities: A Preliminary Study](./papers/KBCOM_2018_paper_12.pdf)
-
-   Author(s): Bill Y. Lin (Shanghai Jiao Tong University); Frank F. Xu (Shanghai Jiao Tong University); Kenny Q. Zhu (Shanghai Jiao Tong University)
-
-* [Improving Question Answering Sentence Ranking by Rank Propagation](./papers/KBCOM_2018_paper_19.pdf)
-
-   Author(s): Hong-Wei Ng (UIUC); Xiaoxiao Wang (Bloomberg L.P.); Xinyu Zhang (UIUC); Zeqiu Wu (UIUC)
-
-* [Aligning Product Categories using Anchor Products](./papers/KBCOM_2018_paper_16.pdf)
-
-   Author(s): Varun Embar (UCSC); Golnoosh Farnadi (UCSC); Jay Pujara (USC); Lise Getoor (UCSC)
-
-* [A Joint Framework for Path Finding and Path Reasoning](./papers/KBCOM_2018_paper_17.pdf)
-
-   Author(s): Wenhu Chen (UCSB); William Wang (UCSB); Xifeng Yan (UCSB)
-
-* [Using Patterns in Knowledge Graphs for Targeted Information Extraction](./papers/KBCOM_2018_paper_5.pdf)
-
-   Author(s): Mengfei Zhou (University of Heidelberg); Vivi Nastase (University of Heidelberg)
-
-* [A Systems Engineer’s Virtual Assistant (SEVA)](./papers/KBCOM_2018_paper_9.pdf)
-
-   Author(s): Jitin Krishnan (George Mason University); Patrick Coronado (NASA Goddard Space Flight Center); Trevor Reed (NASA Jet Propulsion Laboratory)
-
-
-
-
+   Author(s): Alana Marzoev (MIT), Samuel Madden (MIT), M. Frans Kaashoek (MIT), Michael Cafarella (University of Michigan) and Jacob Andreas (MIT)
