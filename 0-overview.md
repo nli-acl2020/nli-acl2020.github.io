@@ -4,12 +4,28 @@ title: Overview
 nav: true
 ---
 
-# [NLI 2020](http://nli-acl2020.github.io): First Workshop on Natural Language Interfaces
-## at [ACL 2020](https://acl2020.org/) in Seattle, Washington, July 10, 2020.  
+<!-- # [NLI 2020](http://nli-acl2020.github.io): First Workshop on Natural Language Interfaces
+## at [ACL 2020](https://acl2020.org/) in Seattle, Washington, July 10, 2020.   -->
 <!-- <div class="fb-share-button" data-href="http://nli-acl2020.github.io" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkbcom.org%2F&amp;src=sdkpreparse">Share</a></div>
 <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-{% include figure.html file="seattle.jpg" alt="intro image here" width="85%" %}
+<div class="container">
+  <img src="images/seattle.jpg" style="width:100%;min-height:200px;max-height:550px;">
+  <div class="top-left">
+    <h3>
+      <p align="center">
+        <b>
+          <font color="white">First Workshop on Natural Language Interfaces: Challenges and Promises</font>
+        </b>
+      </p>
+    </h3>
+    <h5>
+      <p align="center">
+        <font color="white">Held in conjunction with ACL 2020 <br/> in Seattle, Washington, July 10th, 2020</font>
+      </p>
+    </h5>
+  </div>
+</div>
 
 # Overview
 Natural language interfaces (NLIs) have been the "holy grail" of human-computer interaction and information search for decades. However, early attempts in building NLIs to databases did not achieve the expected success due to limitations in language understanding capability, extensibility and explainability, among others. The last 5 years have seen a major resurgence of NLIs in the form of virtual assistants, dialogue systems, and semantic parsing and question answering systems. The horizon of NLIs has also been significantly expanding beyond databases to, e.g., knowledge bases, robots, Internet of Things, Web service APIs, and more.
