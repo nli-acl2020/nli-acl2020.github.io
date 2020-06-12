@@ -9,7 +9,7 @@ nav: true
 <!-- <div class="fb-share-button" data-href="http://nli-acl2020.github.io" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkbcom.org%2F&amp;src=sdkpreparse">Share</a></div>
 <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-{% include figure.html file="seattle.pdf" alt="intro image here" width="85%" %}
+{% include figure.html file="seattle.jpg" alt="intro image here" width="85%" %}
 
 <br>
 
@@ -22,7 +22,7 @@ Many research communities have been advancing NLI technologies in recent years: 
 
 
 # Invited Speakers
-{% include figure.html file="speakers.pdf" alt="invited speakers" width="110%" %}
+{% include figure.html file="speakers.png" alt="invited speakers" width="110%" %}
 
 
 Details about the speakers and talks can be found [here](http://nli-acl2020.github.io/3-speaker.html).
@@ -69,7 +69,7 @@ This workshop aims to bring together researchers and practitioners from differen
 <br>
 
 # Organizers
-{% include figure.html file="organizers.pdf" alt="organizers" width="90%" %}
+{% include figure.html file="organizers.png" alt="organizers" width="90%" %}
 
 The workshop is organized by [Ahmed Hassan Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/) (Microsoft Research), [Yu Su](http://ysu1989.github.io/) (OSU)，[Huan Sun](http://web.cse.ohio-state.edu/~sun.397/) (OSU), and [Scott Wen-tau Yih](http://scottyih.org/) (FAIR).
 
