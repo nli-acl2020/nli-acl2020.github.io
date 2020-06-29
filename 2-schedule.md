@@ -13,24 +13,24 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 | PDT (UTC-7)           | Title       |   
 |:-----------------|:-----------------|
 | 08:15-08:30  | Opening Remarks  
-| 08:30-09:30  | **Invited Talk: [Joyce Chai](http://www.cse.msu.edu/~jchai/)** -- TBD |
-| 09:30-10:30  | **Invited Talk: [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/)** -- On the Path to Billion Skills: Turning Documents into Actions | 
+| 08:30-09:30  | **Invited Talk: [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/)** -- TBD |
+| 09:30-10:30  | **Invited Talk: [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/)** -- _On the Path to Billion Skills: Turning Documents into Actions_ | 
 | 10:30-10:45 | Break | |
-| 10:45-11:00 | **Contributed Talk**: Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases  | 
-| 11:00-11:15 | **Contributed Talk**: Unnatural Language Processing: Bridging the Gap Between Synthetic and Natural Language Data |
-| 11:15-11:30 | **Contributed Talk**: Towards Reversal-Based Textual Data Augmentation for NLI Problems with Opposable Classes |
-| 11:30-12:30  | **Invited Talk: [Monica Lam](https://suif.stanford.edu/~lam/)** -- TBD | 
+| 10:45-11:00<br> | **Contributed Talk**: _Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases_  | 
+| 11:00-11:15<br> | **Contributed Talk**: _Unnatural Language Processing: Bridging the Gap Between Synthetic and Natural Language Data_ |
+| 11:15-11:30<br> | **Contributed Talk**: _Towards Reversal-Based Textual Data Augmentation for NLI Problems with Opposable Classes_ |
+| 11:30-12:30  | **Invited Talk: [Monica Lam](https://suif.stanford.edu/~lam/)** -- _TBD_ | 
 | 12:30-13:30  | Break | |
-| 13:30-14:30   | **Invited Talk: [Percy Liang](https://cs.stanford.edu/~pliang/)** -- Reflections on Semantic Parsing and Learning from Users | 
-| 14:30-14:45   | **Contributed Talk**: Examination and Extension of Strategies for Improving Personalized Language Modeling via Interpolation |
-| 14:45-15:00   | **Contributed Talk**: A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations |
-| 15:00-15:15   | **Contributed Talk**: Efficient Deployment of Conversational Natural Language Interfaces over Databases | 
-| 15:15-15:30   | **Contributed Talk**: Neural Multi-task Text Normalization and Sanitization with Pointer-Generator | 
+| 13:30-14:30   | **Invited Talk: [Percy Liang](https://cs.stanford.edu/~pliang/)** -- _Reflections on Semantic Parsing and Learning from Users_ | 
+| 14:30-14:45<br>   | **Contributed Talk**: _Examination and Extension of Strategies for Improving Personalized Language Modeling via Interpolation_ |
+| 14:45-15:00<br>   | **Contributed Talk**: _A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations_ |
+| 15:00-15:15<br>   | **Contributed Talk**: _Efficient Deployment of Conversational Natural Language Interfaces over Databases_ | 
+| 15:15-15:30<br>   | **Contributed Talk**: _Neural Multi-task Text Normalization and Sanitization with Pointer-Generator_ | 
 | 15:30-15:45  | Break | |
-| 15:45-16:45   | **Invited Talk: [H V Jagadish](https://web.eecs.umich.edu/~jag/)** N-- atural Language In A Database Management System |
-| 16:45-17:45   | **Invited Talk: [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)** -- Denoising Sequence-to-Sequence Pre-training  |
+| 15:45-16:45   | **Invited Talk: [H V Jagadish](https://web.eecs.umich.edu/~jag/)** -- _Natural Language In A Database Management System_ |
+| 16:45-17:45   | **Invited Talk: [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)** -- _Denoising Sequence-to-Sequence Pre-training_  |
 | 17:45-17:50  | Closing Remarks |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
 
 <!--
 <object data="images/Schedule.pdf" type="application/pdf" width="700px" height="700px">
