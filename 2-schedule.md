@@ -10,9 +10,9 @@ nav: true
 A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.
 -->
 
-| PDT (UTC-7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| PDT (UTC-7)           | Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:-----------------------------|:-----------------|:----------------------|
-| 08:15-08:30   | Opening Remarks   | Workshop Organizers |
+| 08:15-08:30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Opening Remarks   | Workshop Organizers |
 |||
 | 08:30-09:30   | **TBD** | [Joyce Chai](http://www.cse.msu.edu/~jchai/) |
 |||
@@ -20,11 +20,11 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 |||
 | 10:30-10:45 | Break | |
 |||
-| 10:45-11:00 | **Contributed Talk**: Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases  | Nikita Bhutani, Xinyi Zheng, Kun Qian, Yunyao Li and H. Jagadish
+| 10:45-11:00 | **Contributed Talk**: Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases  | <!--Nikita Bhutani, Xinyi Zheng, Kun Qian, Yunyao Li and H. Jagadish-->
 |||
-| 11:00-11:15 | **Contributed Talk**: Unnatural Language Processing: Bridging the Gap Between Synthetic and Natural Language Data | Alana Marzoev, Samuel Madden, M. Frans Kaashoek, Michael Cafarella and Jacob Andreas |
+| 11:00-11:15 | **Contributed Talk**: Unnatural Language Processing: Bridging the Gap Between Synthetic and Natural Language Data | <!--Alana Marzoev, Samuel Madden, M. Frans Kaashoek, Michael Cafarella and Jacob Andreas--> |
 |||
-| 11:15-11:30 | **Contributed Talk**: Towards Reversal-Based Textual Data Augmentation for NLI Problems with Opposable Classes | Alexey Tarasov |
+| 11:15-11:30 | **Contributed Talk**: Towards Reversal-Based Textual Data Augmentation for NLI Problems with Opposable Classes | <!--Alexey Tarasov--> |
 |||
 | 11:30-12:30  | **TBD** | [Monica Lam](https://suif.stanford.edu/~lam/)
 |||
@@ -32,13 +32,13 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 |||
 | 13:30-14:30   | **Reflections on Semantic Parsing and Learning from Users** | [Percy Liang](https://cs.stanford.edu/~pliang/)  |
 |||
-| 14:30-14:45   | **Contributed Talk**: Examination and Extension of Strategies for Improving Personalized Language Modeling via Interpolation | Liqun Shao, Sahitya Mantravadi, Tom Manzini, Alejandro Buendia, Manon Knoertzer, Soundar Srinivasan and Chris Quirk |
+| 14:30-14:45   | **Contributed Talk**: Examination and Extension of Strategies for Improving Personalized Language Modeling via Interpolation | <!--Liqun Shao, Sahitya Mantravadi, Tom Manzini, Alejandro Buendia, Manon Knoertzer, Soundar Srinivasan and Chris Quirk--> |
 |||
-| 14:45-15:00   | **Contributed Talk**: A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations | Toby Jia-Jun Li, Marissa Radensky, Justin Jia, Kirielle Singarajah, Tom Mitchell and Brad Myers |
+| 14:45-15:00   | **Contributed Talk**: A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations | <!--Toby Jia-Jun Li, Marissa Radensky, Justin Jia, Kirielle Singarajah, Tom Mitchell and Brad Myers--> |
 |||
-| 15:00-15:15   | **Contributed Talk**: Efficient Deployment of Conversational Natural Language Interfaces over Databases | Anthony Colas, Trung Bui, Franck Dernoncourt, Moumita Sinha and Doo Soon Kim |
+| 15:00-15:15   | **Contributed Talk**: Efficient Deployment of Conversational Natural Language Interfaces over Databases | <!--Anthony Colas, Trung Bui, Franck Dernoncourt, Moumita Sinha and Doo Soon Kim--> |
 |||
-| 15:15-15:30   | **Contributed Talk**: Neural Multi-task Text Normalization and Sanitization with Pointer-Generator | Hoang Nguyen and Sandro Cavallari |
+| 15:15-15:30   | **Contributed Talk**: Neural Multi-task Text Normalization and Sanitization with Pointer-Generator | <!--Hoang Nguyen and Sandro Cavallari--> |
 |||
 | 15:30-15:45  | Break | |
 |||
