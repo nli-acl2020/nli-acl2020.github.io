@@ -6,48 +6,47 @@ nav: true
 
 # Program
 
-Comming soon!
-
 <!--
 A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.
 -->
 
-<!-- | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             | Title             | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-|:-------------|:-----------------|:----------|
-| 09:00-09:10   | Opening Remarks   | KBCOM Organizers |
+| PDT (GMT-7)           | Title             | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:-----------------------------|:-----------------|:----------------------|
+| 08:15-08:30   | Opening Remarks   | Workshop Organizers |
 |||
-| 09:10-09:40   | **[Keeping the Internet Open with an Open-Source Programmable Virtual Assistant](./speaker_slides/monica_kbcom.pdf)** | [Monica Lam](https://suif.stanford.edu/~lam/) |
+| 08:30-09:30   | **TBD** | [Joyce Chai](http://www.cse.msu.edu/~jchai/) |
 |||
-| 09:40-10:10  | **[Challenges and Innovations in Building a Product Knowledge Graph](./speaker_slides/ProductGraph_KBCOM.pdf)** | [Xin Luna Dong](http://lunadong.com/)  |
+| 09:30-10:30  | **On the Path to Billion Skills: Turning Documents into Actions** | [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/)  |
 |||
-| 10:10-10:40 | **[Creating Knowledge Bases from Text](./speaker_slides/KBCOM18_Alon.pdf)** | [Alon Halevy](https://homes.cs.washington.edu/~alon/) |
+| 10:30-10:45 | Break | |
 |||
-| 10:40-11:30 | Morning Poster Session & Coffee Break  |
+| 10:45-11:00 | **Contributed Talk**: Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases  | Nikita Bhutani, Xinyi Zheng, Kun Qian, Yunyao Li and H. Jagadish
 |||
-| 11:30-12:00 | **[Project Alexandria: Constructing a KB of Common Sense](./speaker_slides/Etzioni_kbcom.pdf)** | [Oren Etzioni](http://allenai.org/team/orene/) |
+| 11:00-11:15 | **Contributed Talk**: Unnatural Language Processing: Bridging the Gap Between Synthetic and Natural Language Data | Alana Marzoev, Samuel Madden, M. Frans Kaashoek, Michael Cafarella and Jacob Andreas |
 |||
-| 12:00-12:30 | **[From Strings to Things: Populating Knowledge Bases from Text](./speaker_slides/finin_kbcom.pdf)** | [Tim Finin](https://www.csee.umbc.edu/~finin/) |
+| 11:15-11:30 | **Contributed Talk**: Towards Reversal-Based Textual Data Augmentation for NLI Problems with Opposable Classes | Alexey Tarasov |
 |||
-| 12:30-14:00  | Lunch Break & Poster Session |
+| 11:30-12:30  | **TBD** | [Monica Lam](https://suif.stanford.edu/~lam/)
 |||
-| 14:00-14:30   | **[Democratize Data Science: NLI to Data](./speaker_slides/democratize_data_science-release.pdf)** | [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)|
+| 12:30-13:30  | Break | |
 |||
-| 14:30-15:00   | **[End-to-end Learning for Broad Coverage Semantics](./speaker_slides/ZettlemoyerDeepSemanticsELMoFeb18.pdf)** | [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  |
+| 13:30-14:30   | **Reflections on Semantic Parsing and Learning from Users** | [Percy Liang](https://cs.stanford.edu/~pliang/)  |
 |||
-| 15:00-15:15   | **Contributed talk**: [Event Detection and Evolution Based on Knowledge Base](./papers/KBCOM_2018_paper_1.pdf) | |
+| 14:30-14:45   | **Contributed Talk**: Examination and Extension of Strategies for Improving Personalized Language Modeling via Interpolation | Liqun Shao, Sahitya Mantravadi, Tom Manzini, Alejandro Buendia, Manon Knoertzer, Soundar Srinivasan and Chris Quirk |
 |||
-| 15:15-15:30   | **Contributed talk**: [Temporal Reasoning Over Event Knowledge Graphs](./papers/KBCOM_2018_paper_11.pdf) | |
+| 14:45-15:00   | **Contributed Talk**: A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations | Toby Jia-Jun Li, Marissa Radensky, Justin Jia, Kirielle Singarajah, Tom Mitchell and Brad Myers |
 |||
-| 15:30-15:45   | **Contributed talk**: [Analysis of the Impact of Negative Sampling on Link Prediction in Knowledge Graphs](./papers/KBCOM_2018_paper_4.pdf) | |
+| 15:00-15:15   | **Contributed Talk**: Efficient Deployment of Conversational Natural Language Interfaces over Databases | Anthony Colas, Trung Bui, Franck Dernoncourt, Moumita Sinha and Doo Soon Kim |
 |||
-| 15:45-16:30   | Afternoon Poster Session & Coffee Break | |
+| 15:15-15:30   | **Contributed Talk**: Neural Multi-task Text Normalization and Sanitization with Pointer-Generator | Hoang Nguyen and Sandro Cavallari |
 |||
-| 16:30-17:00   | **Data Programming in Snorkel** | [Christopher Ré](https://cs.stanford.edu/people/chrismre/) |
+| 15:30-15:45  | Break | |
 |||
-| 17:00-17:30   | Panel Discussion | Invited Speakers |
+| 15:45-16:45   | **Natural Language In A Database Management System** | [H V Jagadish](https://web.eecs.umich.edu/~jag/)  |
 |||
-| 17:30-17:40   | Best paper Awards and Closing Remarks |KBCOM Organizers | -->
-
+| 16:45-17:45   | **Denoising Sequence-to-Sequence Pre-training** | [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  |
+|||
+| 17:45-17:50  | Closing Remarks | Workshop Organizers |
 
 <!--
 <object data="images/Schedule.pdf" type="application/pdf" width="700px" height="700px">
