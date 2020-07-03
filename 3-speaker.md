@@ -6,18 +6,18 @@ nav: true
 
 # Invited Speakers
 + [Joyce Y. Chai](#joyce_chai) (University of Michigan)
-+ [H. V. Jagadish](https://web.eecs.umich.edu/~jag/) (University of Michigan)
-+ [Monica S. Lam](https://suif.stanford.edu/~lam/) (Stanford University)
-+ [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
-+ [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) (University of Washington & FAIR)
-+ [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/) (Google)
++ [H. V. Jagadish](#h_v_jagadish) (University of Michigan)
++ [Monica S. Lam](#monica_lam) (Stanford University)
++ [Percy Liang](#percy_liang) (Stanford University)
++ [Luke Zettlemoyer](#luke_zettlemoyer) (University of Washington & FAIR)
++ [Imed Zitouni](#imed_zitouni) (Google)
 
 <br>
 
 # Speaker Details
 
 <a name="joyce_chai"></a>
-<img align="left" src="images/joycechai.jpeg" width="15%" style="margin: 0px 15px 5px 0px;"> [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/)  (University of Michigan)
+<img align="left" src="images/joycechai.jpeg" width="25%" style="margin: 0px 15px 5px 0px;"> [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/)  (University of Michigan)
 
 **Talk**: _Situated Human-Machine Communication_
 
@@ -27,7 +27,8 @@ She served as Program Co-chair for the Annual Meeting of the Special Interest Gr
 
 <br>
 
-<img align="left" src="images/jag.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [H. V. Jagadish](https://web.eecs.umich.edu/~jag/) (University of Michigan)
+<a name="h_v_jagadish"></a>
+<img align="left" src="images/jag.jpg" width="25%" style="margin: 0px 15px 5px 0px;"> [H. V. Jagadish](https://web.eecs.umich.edu/~jag/) (University of Michigan)
 
 **Talk**: _Natural Language in a Database Management System_
 
@@ -39,7 +40,8 @@ Among his many awards, he won the ACM SIGMOD Contributions Award in 2013 and the
 
 <br>
 
-<img align="left" src="images/monica.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Monica S. Lam](https://suif.stanford.edu/~lam/) (Stanford University)
+<a name="monica_lam"></a>
+<img align="left" src="images/monica.jpg" width="25%" style="margin: 0px 15px 5px 0px;"> [Monica S. Lam](https://suif.stanford.edu/~lam/) (Stanford University)
 
 **Talk**: _An Open End-User Programmable Privacy-Preserving Virtual Assistant_
 
@@ -49,7 +51,8 @@ She is the PI of the NSF Research Award "Autonomy and Privacy with Open Federate
 
 <br>
 
-<img align="left" src="images/percy.jpeg" width="15%" style="margin: 0px 15px 5px 0px;"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
+<a name="percy_liang"></a>
+<img align="left" src="images/percy.jpeg" width="25%" style="margin: 0px 15px 5px 0px;"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
 
 **Talk**: _Reflections on Semantic Parsing and Learning from Users_
 
@@ -59,7 +62,8 @@ His awards include the Presidential Early Career Award for Scientists and Engine
 
 <br>
 
-<img align="left" src="images/lsz_sm.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) (University of Washington & FAIR)
+<a name="luke_zettlemoyer"></a>
+<img align="left" src="images/lsz_sm.jpg" width="25%" style="margin: 0px 15px 5px 0px;"> [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) (University of Washington & FAIR)
 
 **Talk**: _Denoising Sequence-to-Sequence Pre-training_
 
@@ -67,7 +71,8 @@ His awards include the Presidential Early Career Award for Scientists and Engine
 
 <br>
 
-<img align="left" src="images/imed.jpeg" width="15%" style="margin: 0px 15px 5px 0px;"> [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/) (Google)
+<a name="imed_zitouni"></a>
+<img align="left" src="images/imed.jpeg" width="25%" style="margin: 0px 15px 5px 0px;"> [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/) (Google)
 
 **Talk**: _On the Path to Billion Skills: Turning Documents into Actions_
 
