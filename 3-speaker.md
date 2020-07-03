@@ -5,85 +5,74 @@ nav: true
 ---
 
 # Invited Speakers
-+ [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/) (University of Michigan)
++ [Joyce Y. Chai](#joyce_chai) (University of Michigan)
++ [H. V. Jagadish](https://web.eecs.umich.edu/~jag/) (University of Michigan)
 + [Monica S. Lam](https://suif.stanford.edu/~lam/) (Stanford University)
 + [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
 + [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) (University of Washington & FAIR)
 + [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/) (Google)
-+ [H V Jagadish](https://web.eecs.umich.edu/~jag/) (University of Michigan)
 
 <br>
 
 # Speaker Details
 
-Coming soon!
+<a name="joyce_chai"></a>
+<img align="left" src="images/joycechai.jpeg" width="15%" style="margin: 0px 15px 5px 0px;"> [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/)  (University of Michigan)
 
-<!-- <img align="left" src="images/LunaDong.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Xin Luna Dong](http://lunadong.com/)  (Amazon)
+**Talk**: _Situated Human-Machine Communication_
 
-Talk: [Challenges and Innovations in Building a Product Knowledge Graph](./speaker_slides/ProductGraph_KBCOM.pdf)
+**Bio**: Joyce Chai is a Professor in the Department of Computer Science and Engineering at University of Michigan. Prior to joining University of Michigan in 2020, she was a Professor at Michigan State University, where she was awarded the William Beal Outstanding Faculty Award in 2018, and before that she was a Research Staff Member at IBM T. J. Watson Research Center. She holds a Ph.D. in Computer Science from Duke University. Her research interests include natural language processing, situated dialogue agents, human-robot communication, artificial intelligence, and intelligent user interfaces. Her recent work is focused on situated language processing to facilitate natural communication with robots and other artificial agents. 
 
-Bio: Xin Luna Dong is a Principal Scientist at Amazon, leading the efforts of constructing Amazon Product Knowledge Graph. She was one of the major contributors to the Google Knowledge Vault project, and has led the Knowledge-based Trust project, which is called the "Google Truth Machine" by Washington's Post. She has co-authored book "Big Data Integration", published 70+ papers in top conferences and journals, and given 30+ keynotes/invited-talks/tutorials. She got the VLDB Early Career Research Contribution Award for advancing the state of the art of knowledge fusion, and got the Best Demo award in Sigmod 2005. She is the PC co-chair for Sigmod 2018 and WAIM 2015, and serves as an area chair for Sigmod 2017, CIKM 2017, Sigmod 2015, ICDE 2013, and CIKM 2011.
-
-<br>
-
-
-<img align="left" src="images/Oren.jpg" width="15%" style="margin: 0px 15px 0px 0px;"> [Oren Etzioni](http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
-
-Talk: [Project Alexandria: Constructing a KB of Common Sense](./speaker_slides/Etzioni_kbcom.pdf)
-
-Bio: Dr. Oren Etzioni is Chief Executive Officer of the Allen Institute for Artificial Intelligence. He has been a Professor at the University of Washington's Computer Science department since 1991, receiving several awards including GeekWire's Hire of the Year (2014), Seattle's Geek of the Year (2013), the Robert Engelmore Memorial Award (2007), the IJCAI Distinguished Paper Award (2005), AAAI Fellow (2003), and a National Young Investigator Award (1993). He was also the founder or co-founder of several companies including Farecast (sold to Microsoft in 2008) and Decide (sold to eBay in 2013), and the author of over 100 technical papers that have garnered over 25,000 citations. The goal of Oren's research is to solve fundamental problems in AI, particularly the automatic learning of knowledge from text. Oren received his Ph.D. from Carnegie Mellon University in 1991, and his B.A. from Harvard in 1986.
-
+She served as Program Co-chair for the Annual Meeting of the Special Interest Group in Dialogue and Discourse (SIGDIAL) in 2011, the ACM International Conference on Intelligent User Interfaces (IUI) in 2014, and the Annual Meeting of the North America Chapter of Association of Computational Linguistics (NAACL) in 2015 and the the Annual Meeting of the Association for Computational Linguistics (ACL) in 2020. She received a National Science Foundation CAREER Award in 2004 and the Best Long Paper Award from the Annual Meeting of Association of Computational Linguistics (ACL) in 2010. 
 
 <br>
 
-<img align="left" src="images/Tim.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Tim Finin](https://www.csee.umbc.edu/~finin/) (University of Maryland, Baltimore County)
+<img align="left" src="images/jag.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [H. V. Jagadish](https://web.eecs.umich.edu/~jag/) (University of Michigan)
 
-Talk: [From Strings to Things: Populating Knowledge Bases from Text](./speaker_slides/finin_kbcom.pdf)
+**Talk**: _Natural Language in a Database Management System_
 
-Bio: Dr. Tim Finin is the Willard and Lillian Hackerman Chair in Engineering and a Professor of Computer Science and Electrical Engineering at the University of Maryland, Baltimore County (UMBC). He has over 35 years of experience in applications of artificial intelligence to problems in information systems and language understanding. His current research is focused on the Semantic Web, mobile computing, analyzing and extracting information from text, and on enhancing security and privacy in information systems. He is a fellow of the Association for the Advancement of Artificial Intelligence (AAAI), an IEEE technical achievement award recipient and was selected as the UMBC Presidential Research Professor in 2012.
+**Bio**: H. V. Jagadish is Bernard A Galler Collegiate Professor of Electrical Engineering and Computer Science at the University of Michigan in Ann Arbor, and Director of the Michigan Institute for Data Science.  Prior to 1999, he was Head of the Database Research Department at AT&T Labs, Florham Park, NJ.  Professor Jagadish is well known for his broad-ranging research on information management, and has approximately 200 major papers and 37 patents.
 
-<br>
+He is a fellow of the ACM, "The First Society in Computing," (since 2003) and of AAAS (since 2018).  He served on the board of the Computing Research Association (2009-2018).Ê He has been an Associate Editor for the ACM Transactions on Database Systems (1992-1995), Program Chair of the ACM SIGMOD annual conference (1996), Program Chair of the ISMB conference (2005), a trustee of the VLDB (Very Large DataBase) foundation (2004-2009), Founding Editor-in-Chief of the Proceedings of the VLDB Endowment (2008-2014), and Program Chair of the VLDB Conference (2014).Ê Since 2016, he is Editor of the Morgan & Claypool ÒSynthesisÓ Lecture Series on Data Management.  
 
-<img align="left" src="images/Alon.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Alon Halevy](https://homes.cs.washington.edu/~alon/)  (Recruit Institute of Technology)
-
-Talk: [Creating Knowledge Bases from Text](./speaker_slides/KBCOM18_Alon.pdf)
-
-Bio: Alon Halevy is the C.E.O of the Recruit Institute of Technology. From 2005 to 2015 he headed the Structured Data Management Research group at Google. Prior to that, he was a professor of Computer Science at the University of Washington in Seattle, where he founded the Database Group. In 1999, Dr. Halevy co-founded Nimble Technology, one of the first companies in the Enterprise Information Integration space, and in 2004, Dr. Halevy founded Transformic, a company that created search engines for the deep web, and was acquired by Google. Dr. Halevy is a Fellow of the Association for Computing Machinery, the author of the book “The Infinite Emotions of Coffee”, and co-author of the book “Principles of Data Integration”.
+Among his many awards, he won the ACM SIGMOD Contributions Award in 2013 and the David E Liddle Research Excellence Award (at the University of Michigan) in 2008. His popular MOOC on Data Science Ethics is available on both EdX and Coursera.
 
 <br>
 
-<img align="left" src="images/MonicaLam.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Monica Lam](https://suif.stanford.edu/~lam/)  (Stanford University)
+<img align="left" src="images/monica.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Monica S. Lam](https://suif.stanford.edu/~lam/) (Stanford University)
 
-Talk: [Keeping the Internet Open with an Open-Source Programmable Virtual Assistant](./speaker_slides/monica_kbcom.pdf)
+**Talk**: _An Open End-User Programmable Privacy-Preserving Virtual Assistant_
 
-Bio: Monica S. Lam has been a Professor in the Computer Science Department at Stanford University since 1988, and the Faculty Director of the Stanford MobiSocial Computing Laboratory. She received her PhD in Computer Science from Carnegie Mellon University. Her current research interest is in creating open social computing platforms. She has worked in the areas of high-performance computing, computer architecture, compiler optimizations, security analysis, virtualization-based computer management, and mobile/social software architectures. She is a co-author of the "Dragon Book". Together with her students, she founded MokaFive Inc. in 2005 and MobiSocial Inc. in 2012. Monica is an ACM Fellow.
+**Bio**: Monica Lam is a Professor in the Computer Science Department at Stanford University since 1988. She is the faculty director of the Open Virtual Assistant Lab (OVAL). She received a B.Sc. from University of British Columbia in 1980 and a Ph.D. in Computer Science from Carnegie Mellon University in 1987. Monica is a Member of the National Academy of Engineering and Association of Computing Machinery (ACM) Fellow. She is a co-author of the popular text Compilers, Principles, Techniques, and Tools (2nd Edition), also known as Dragon book.
 
-
-<br>
-
-
-<img align="left" src="images/ChrisRe.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Christopher Ré](https://cs.stanford.edu/people/chrismre/)  (Stanford University)
-
-Talk: Data Programming in Snorkel
-
-Bio: Christopher (Chris) Ré is an assistant professor in the Department of Computer Science at Stanford University in the InfoLab who is affiliated with the Statistical Machine Learning Group, Pervasive Parallelism Lab, and Stanford AI Lab. His work's goal is to enable users and developers to build applications that more deeply understand and exploit data. His contributions span database theory, database systems, and machine learning, and his work has won best paper at a premier venue in each area, respectively, at PODS 2012, SIGMOD 2014, and ICML 2016. In addition, work from his group has been incorporated into major scientific and humanitarian efforts, including the IceCube neutrino detector, PaleoDeepDive and MEMEX in the fight against human trafficking, and into commercial products from major web and enterprise companies. He received a SIGMOD Dissertation Award in 2010, an NSF CAREER Award in 2011, an Alfred P. Sloan Fellowship in 2013, a Moore Data Driven Investigator Award in 2014, the VLDB early Career Award in 2015, the MacArthur Foundation Fellowship in 2015, and an Okawa Research Grant in 2016.
+She is the PI of the NSF Research Award "Autonomy and Privacy with Open Federated Virtual Assistants". This project combines machine learning, natural language processing, programming systems, distributed systems, human-computer interaction, blockchain technology to create an open-source assistant that promotes consumer privacy and open competition. Her Almond research project is the first virtual assistant that lets users share their digital assets easily in natural language, without disclosing any information to a third party. It receives Popular Science's Best of What's New Award in Security in 2019.
 
 <br>
 
+<img align="left" src="images/percy.jpeg" width="15%" style="margin: 0px 15px 5px 0px;"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
 
-<img align="left" src="images/XifengYan.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)  (University of California at Santa Barbara)
+**Talk**: _Reflections on Semantic Parsing and Learning from Users_
 
-Talk: [Democratize Data Science: NLI to Data](./speaker_slides/democratize_data_science-release.pdf)
+**Bio**: Percy Liang is an Associate Professor of Computer Science at Stanford University (B.S. from MIT, 2004; Ph.D. from UC Berkeley, 2011). His two research goals are (i) to make machine learning more robust, fair, and interpretable; and (ii) to make computers easier to communicate with through natural language. 
 
-Bio: Xifeng Yan is a professor at the University of California, Santa Barbara. He holds the Venkatesh Narayanamurti Chair of Computer Science. He received his Ph.D. from the University of Illinois at Urbana-Champaign in 2006 and was a research staff member at the IBM T. J. Watson Research Center between 2006 and 2008. He has been working on modeling, managing, and mining graphs in knowledge graphs, information networks, computer systems, social media and bioinformatics. His works were extensively referenced, with over 14,000 citations per Google Scholar.  He received NSF CAREER Award, IBM Invention Achievement Award, ACM-SIGMOD Dissertation Runner-Up Award, and IEEE ICDM 10-year Highest Impact Paper Award.
+His awards include the Presidential Early Career Award for Scientists and Engineers (2019), IJCAI Computers and Thought Award (2016), an NSF CAREER Award (2016), a Sloan Research Fellowship (2015), and a Microsoft Research Faculty Fellowship (2014).
 
 <br>
 
+<img align="left" src="images/lsz_sm.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) (University of Washington & FAIR)
 
-<img align="left" src="images/Luke.jpg" width="15%" style="margin: 0px 15px 0px 0px;"> [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington and Allen Institute for Artificial Intelligence)
+**Talk**: _Denoising Sequence-to-Sequence Pre-training_
 
-Talk: [End-to-end Learning for Broad Coverage Semantics](./speaker_slides/ZettlemoyerDeepSemanticsELMoFeb18.pdf)
+**Bio**: Luke Zettlemoyer is a Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, and a Research Scientist at Facebook. His research focuses on empirical methods for natural language semantics, and involves designing machine learning algorithms; introducing new tasks and datasets; and, most recently, studying how to best develop self-supervision signals for pre-training. Honors include multiple paper awards, a PECASE award, and an Allen Distinguished Investigator Award. Luke received his PhD from MIT and was a postdoc at the University of Edinburgh.
 
-Bio: Luke Zettlemoyer is an Associate Professor in the Allen School of Computer Science & Engineering at the University of Washington, and also leads the AllenNLP project at the Allen Institute for Artificial Intelligence. His research is in core semantics, where he works on data and algorithms for learning to recover and make use of representations of the meaning of natural language text. Honors include multiple best papers, a PECASE award, and being named an Allen Distinguished Investigator. Luke received his PhD from MIT and was a postdoctoral fellow at the University of Edinburgh.
+<br>
 
-<br> -->
+<img align="left" src="images/imed.jpeg" width="15%" style="margin: 0px 15px 5px 0px;"> [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/) (Google)
+
+**Talk**: _On the Path to Billion Skills: Turning Documents into Actions_
+
+**Bio**: Imed Zitouni is a director of engineering at Google leading efforts on NLU to enable capabilities for Semantic Search and Assistant leveraging the power of the Knowledge Graph. Before joining Google in 2019, Imed was at Microsoft leading the NLU and the Conversation Engine effort for the digital assistant Cortana. Prior to joining Microsoft in 2012, Imed was a Senior Researcher at IBM Watson for almost a decade, working on several NLP initiatives including the Watson initiative around informatics extraction, language modeling and automatic machine translation. Prior to IBM, Imed was a research member at Bell Labs, Lucent Technologies, for half a dozen years working on speech recognition, language modeling and spoken dialog systems. 
+
+Imed received his M.Sc. and Ph.D. from the University-of-Nancy1 and INRIA in France. He also obtained a MEng degree in computer science from ENSI in Tunisia. Imed is the Editor-in-Chief of ACM Transactions on Asian and Low-Resources Language Processing. He is a senior member of IEEE, served as a board member of the IEEE Speech and Language Processing Technical Committee, and is the associate editor of IEEE Trans. on Audio, Speech and Language Processing. He is also the Information Officer of the ACL SIG on Semitic-Languages and served as chair as well as reviewing-committee-member of several conferences and journals. Imed is the author/co-author of two books, half-dozen book-chapters as well as more than 100 patents and scientific papers.
+
+<br>
