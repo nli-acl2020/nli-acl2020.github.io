@@ -19,7 +19,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 | 10:45-11:00<br> | **Contributed Talk**: _Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases_  | 
 | 11:00-11:15<br> | **Contributed Talk**: _Unnatural Language Processing: Bridging the Gap Between Synthetic and Natural Language Data_ |
 | 11:15-11:30<br> | **Contributed Talk**: _Towards Reversal-Based Textual Data Augmentation for NLI Problems with Opposable Classes_ |
-| 11:30-12:30  | **Invited Talk: [Monica Lam](https://suif.stanford.edu/~lam/)** -- _An Open End-User Programmable Privacy-Preserving Virtual Assistant_ | 
+| 11:30-12:30  | **Invited Talk: [Monica Lam](https://suif.stanford.edu/~lam/)** -- _Let's Build an Open Programmable Virtual Assistant with Privacy_ | 
 | 12:30-13:30  | Break | |
 | 13:30-14:30   | **Invited Talk: [Percy Liang](https://cs.stanford.edu/~pliang/)** -- _Reflections on Semantic Parsing and Learning from Users_ | 
 | 14:30-14:45<br>   | **Contributed Talk**: _Examination and Extension of Strategies for Improving Personalized Language Modeling via Interpolation_ |

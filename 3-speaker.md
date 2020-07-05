@@ -43,7 +43,7 @@ Among his many awards, he won the ACM SIGMOD Contributions Award in 2013 and the
 <a name="monica_lam"></a>
 <img align="left" src="images/monica.jpg" width="25%" style="margin: 0px 15px 5px 0px;"> [Monica S. Lam](https://suif.stanford.edu/~lam/) (Stanford University)
 
-**Talk**: _An Open End-User Programmable Privacy-Preserving Virtual Assistant_
+**Talk**: _Let's Build an Open Programmable Virtual Assistant with Privacy_
 
 **Bio**: Monica Lam is a Professor in the Computer Science Department at Stanford University since 1988. She is the faculty director of the Open Virtual Assistant Lab (OVAL). She received a B.Sc. from University of British Columbia in 1980 and a Ph.D. in Computer Science from Carnegie Mellon University in 1987. Monica is a Member of the National Academy of Engineering and Association of Computing Machinery (ACM) Fellow. She is a co-author of the popular text Compilers, Principles, Techniques, and Tools (2nd Edition), also known as Dragon book.
 
