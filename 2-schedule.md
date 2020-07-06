@@ -48,7 +48,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 
 * Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases
 
-   Author(s): Nikita Bhutani (Megagon Labs), Xinyi Zheng (University of Michigan, Ann Arbor), Kun Qian (IBM Research - Almaden), Yunyao Li (University of Michigan, Ann Arbor) and H. Jagadish (University of Michigan, Ann Arbor)
+   Author(s): Nikita Bhutani (Megagon Labs), Xinyi Zheng (University of Michigan, Ann Arbor), Kun Qian (IBM Research - Almaden), Yunyao Li (IBM Research - Almaden) and H. Jagadish (University of Michigan, Ann Arbor)
    
 * Towards Reversal-Based Textual Data Augmentation for NLI Problems with Opposable Classes
 
