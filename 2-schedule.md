@@ -14,7 +14,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 |:-----------------|:-----------------|
 | 08:15-08:30  | Opening Remarks  
 | 08:30-09:30  | **Invited Talk: [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/)** -- _Situated Human-Machine Communication_ |
-| 09:30-10:30  | **Invited Talk: [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/)** -- _On the Path to Billion Skills: Turning Documents into Actions_ | 
+| 09:30-10:30  | **Invited Talk: [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/)** -- _Toward Better Natural Language Interfaces: Leveraging the Power of Web Documents for QA_ | 
 | 10:30-10:45 | Break | |
 | 10:45-11:00<br> | **Contributed Talk**: _Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases_  | 
 | 11:00-11:15<br> | **Contributed Talk**: _Unnatural Language Processing: Bridging the Gap Between Synthetic and Natural Language Data_ |

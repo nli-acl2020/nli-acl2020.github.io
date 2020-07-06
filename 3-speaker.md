@@ -74,7 +74,7 @@ His awards include the Presidential Early Career Award for Scientists and Engine
 <a name="imed_zitouni"></a>
 <img align="left" src="images/imed.jpeg" width="25%" style="margin: 0px 15px 5px 0px;"> [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/) (Google)
 
-**Talk**: _On the Path to Billion Skills: Turning Documents into Actions_
+**Talk**: _Toward Better Natural Language Interfaces: Leveraging the Power of Web Documents for QA_
 
 **Bio**: Imed Zitouni is a director of engineering at Google leading efforts on NLU to enable capabilities for Semantic Search and Assistant leveraging the power of the Knowledge Graph. Before joining Google in 2019, Imed was at Microsoft leading the NLU and the Conversation Engine effort for the digital assistant Cortana. Prior to joining Microsoft in 2012, Imed was a Senior Researcher at IBM Watson for almost a decade, working on several NLP initiatives including the Watson initiative around informatics extraction, language modeling and automatic machine translation. Prior to IBM, Imed was a research member at Bell Labs, Lucent Technologies, for half a dozen years working on speech recognition, language modeling and spoken dialog systems. 
 
