@@ -52,7 +52,7 @@ She is the PI of the NSF Research Award "Autonomy and Privacy with Open Federate
 <br>
 
 <a name="percy_liang"></a>
-<img align="left" src="images/percy.jpeg" width="25%" style="margin: 0px 15px 5px 0px;"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
+<img align="left" src="images/percy.jpeg" width="25%" style="margin: 0px 15px 5px 0px;"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University & Microsoft Semantic Machines)
 
 **Talk**: _Reflections on Semantic Parsing and Learning from Users_
 
