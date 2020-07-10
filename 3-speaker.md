@@ -8,7 +8,7 @@ nav: true
 + [Joyce Y. Chai](#joyce_chai) (University of Michigan)
 + [H. V. Jagadish](#h_v_jagadish) (University of Michigan)
 + [Monica S. Lam](#monica_lam) (Stanford University)
-+ [Percy Liang](#percy_liang) (Stanford University)
++ [Percy Liang](#percy_liang) (Stanford University & Microsoft Semantic Machines)
 + [Luke Zettlemoyer](#luke_zettlemoyer) (University of Washington & FAIR)
 + [Imed Zitouni](#imed_zitouni) (Google)
 

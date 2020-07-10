@@ -6,11 +6,11 @@ nav: true
 
 # Organizers
 
-{% include figure.html file="organizers.png" alt="organizers" width="90%" %}
+<!-- {% include figure.html file="organizers.png" alt="organizers" width="90%" %} -->
 + [Ahmed Hassan Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/) (Microsoft Research)
-+ [Yu Su](http://ysu1989.github.io/) (OSU)
++ [Yu Su](http://ysu1989.github.io/) (OSU/Microsoft Semantic Machines)
 + [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/) (OSU)
-+ [Scott Wen-tau Yih](http://scottyih.org/) (FAIR)
++ [Scott Wen-tau Yih](http://scottyih.org/) (Facebook AI Research)
 
 <br>
 

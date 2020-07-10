@@ -73,7 +73,7 @@ This workshop aims to bring together researchers and practitioners from differen
 # Organizers
 {% include figure.html file="organizers.png" alt="organizers" width="100%" %}
 
-The workshop is organized by [Ahmed Hassan Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/) (Microsoft Research), [Yu Su](http://ysu1989.github.io/) (OSU)，[Huan Sun](http://web.cse.ohio-state.edu/~sun.397/) (OSU), and [Scott Wen-tau Yih](http://scottyih.org/) (FAIR).
+The workshop is organized by [Ahmed Hassan Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/) (Microsoft Research), [Yu Su](http://ysu1989.github.io/) (OSU/Microsoft Semantic Machines)，[Huan Sun](http://web.cse.ohio-state.edu/~sun.397/) (OSU), and [Scott Wen-tau Yih](http://scottyih.org/) (Facebook AI Research).
 
 For any questions, please email [nliacl2020@gmail.com](mailto:nliacl2020@gmail.com )
 
