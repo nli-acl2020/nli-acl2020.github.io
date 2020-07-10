@@ -80,5 +80,5 @@ For any questions, please email [nliacl2020@gmail.com](mailto:nliacl2020@gmail.c
 <br>
 
 # Location 
-NLI 2020 will be held online, co-located with [ACL 2020](http://www.wsdm-conference.org/2018/index.html). More details are coming soon.
+NLI 2020 will be held online, co-located with [ACL 2020](http://www.wsdm-conference.org/2018/index.html). The virtual workshop page is [here](https://virtual.acl2020.org/workshop_W11.html) (conference registration required).
 
