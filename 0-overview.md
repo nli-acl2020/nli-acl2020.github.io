@@ -27,7 +27,7 @@ nav: true
     </h5>
   </div> -->
 
-### _Quick links_ (requires conference registration):&nbsp;&nbsp; [[ACL workshop page]](https://virtual.acl2020.org/workshop_W11.html)&nbsp;&nbsp; [[RocketChat]](https://acl2020.rocket.chat/channel/workshop-11-nli) 
+### _Quick links_ (requires conference registration):&nbsp;&nbsp; [[ACL workshop page]](https://virtual.acl2020.org/workshop_W11.html)&nbsp;&nbsp; [[RocketChat]](https://acl2020.rocket.chat/channel/workshop-11-nli)
 
 <br>
 
@@ -74,12 +74,12 @@ This workshop aims to bring together researchers and practitioners from differen
 # Organizers
 {% include figure.html file="organizers.png" alt="organizers" width="100%" %}
 
-The workshop is organized by [Ahmed Hassan Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/) (Microsoft Research), [Yu Su](http://ysu1989.github.io/) (OSU)，[Huan Sun](http://web.cse.ohio-state.edu/~sun.397/) (OSU), and [Scott Wen-tau Yih](http://scottyih.org/) (FAIR).
+The workshop is organized by [Ahmed Hassan Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/) (Microsoft Research), [Yu Su](http://ysu1989.github.io/) (OSU/Microsoft Semantic Machines)，[Huan Sun](http://web.cse.ohio-state.edu/~sun.397/) (OSU), and [Scott Wen-tau Yih](http://scottyih.org/) (Facebook AI Research).
 
 For any questions, please email [nliacl2020@gmail.com](mailto:nliacl2020@gmail.com )
 
 <br>
 
 # Location 
-NLI 2020 will be held online, co-located with [ACL 2020](http://www.wsdm-conference.org/2018/index.html). More details are coming soon.
+NLI 2020 will be held online, co-located with [ACL 2020](http://www.wsdm-conference.org/2018/index.html). The virtual workshop page is [here](https://virtual.acl2020.org/workshop_W11.html) (conference registration required).
 
